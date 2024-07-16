@@ -19,6 +19,7 @@ import {
   CPP,
   JAVA,
   Python,
+  Eom,
   Project1,
   Project2,
   Project3,
@@ -164,6 +165,18 @@ const experiences = [
       "Currently contributing to the refinement of a leading ERP software, ranked in the top 10% for operational efficiency within the IT industry, while leveraging MS Excel/Google Sheets for comprehensive data analysis",
     ],
   },
+  {
+    title: "Bot Developer (Web Scraping & Crawling)",
+    company_name: "8om Internet",
+    icon: Eom,
+    iconBg: "#BBC4C2",
+    date: "Feb 2024 - Present",
+    points: [
+      "Developed web crawlers using TypeScript with Puppeteer and Playwright, ensuring efficient data extraction and debugging processes",
+      "Utilized Apify for data storage, employing S3 browser for seamless storage management and accessibility.",
+      "Facilitated client communication and enhanced data integrity by writing Python scripts for debugging JSONL data, ensuring smooth project operations.",
+    ],
+  },
 ];
 
 const testimonials = [
@@ -174,7 +187,7 @@ const testimonials = [
     designation: "Consultant",
     company: "The World Bank",
     image:
-      "https://media.licdn.com/dms/image/C4E03AQGM6Xu7PEOTrQ/profile-displayphoto-shrink_100_100/0/1636519968954?e=1714608000&v=beta&t=atFuiw1ylxP7aH8xqKu1twOjYPzgrmLkjmtP8NXvOyA",
+      "https://pbs.twimg.com/profile_images/509601119429857280/2hioaKfA_400x400.jpeg",
   },
   {
     testimonial:
@@ -183,7 +196,7 @@ const testimonials = [
     designation: "CSO",
     company: "Kutumb Aspiration",
     image:
-      "https://media.licdn.com/dms/image/D4D35AQFPHp4iwNHGzg/profile-framedphoto-shrink_100_100/0/1706173686070?e=1709650800&v=beta&t=pAjGBITM4HFivDVLBRYzrFLE9w3j4o8h25zKfzZK-rY",
+      "https://pantiss.com/wp-content/uploads/2022/12/Sanjay-Pradhan--e1670426425441.jpeg",
   },
   {
     testimonial:
@@ -192,7 +205,7 @@ const testimonials = [
     designation: "Founder",
     company: "Grroom",
     image:
-      "https://media.licdn.com/dms/image/D4D03AQHCvuDL9vZbRA/profile-displayphoto-shrink_100_100/0/1677507936286?e=1714608000&v=beta&t=wfZfoHP5cOGxMpBvhfQTM_TtzDUgnVdr6YKNtR3ONt4",
+      "https://assets.coffeemug.ai/li-files/image-ce70cc11-c221-46a0-b4aa-9819d05d3fd3.jpg",
   },
 ];
 

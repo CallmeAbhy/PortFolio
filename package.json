@@ -1,5 +1,5 @@
 {
-  "homepage": "https://CallmeAbhy.github.io/PortFolio", 
+  "homepage": "https://CallmeAbhy.github.io/PortFolio",
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist" 
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
@@ -22,7 +22,8 @@
     "react-router-dom": "^6.8.1",
     "react-tilt": "^0.1.4",
     "react-vertical-timeline-component": "^3.6.0",
-    "three": "^0.149.0"
+    "three": "^0.149.0",
+    "update-browserslist-db": "^1.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",

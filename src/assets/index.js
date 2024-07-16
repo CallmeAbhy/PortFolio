@@ -10,7 +10,7 @@ import GAS from "./GAS.png";
 import FULL from "./Full.png";
 import Front from "./Front.png";
 import Back from "./Back.png";
-
+import Eom from "./company/Eom.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -75,6 +75,7 @@ export {
   Grroom,
   FULL,
   GAS,
+  Eom,
   Front,
   Back,
   CPP,
